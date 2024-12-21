@@ -22,6 +22,13 @@
 
 
 
+## FUTURE ENHANCEMENTS🚀
+
+# Add custmizable timer durations through the popup interface.
+# Improve UI/UX for the popup and timer display.
+# Implement sound alert before the tab closes.
+
+
 ## Installation Instructions
 
 1. Clone this repository to your local machine.
@@ -29,8 +36,6 @@
 3. Enable Developer Mode.
 4. Click on load Unpacked and select the folder where you cloned the project.
 5. This extension will be added to your browser.
-
-
 
 
 
