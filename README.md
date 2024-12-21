@@ -22,13 +22,6 @@
 
 
 
-## FUTURE ENHANCEMENTS🚀
-
-# Add custmizable timer durations through the popup interface.
-# Improve UI/UX for the popup and timer display.
-# Implement sound alert before the tab closes.
-
-
 ## Installation Instructions
 
 1. Clone this repository to your local machine.
@@ -38,5 +31,11 @@
 5. This extension will be added to your browser.
 
 
+
+## FUTURE ENHANCEMENTS🚀
+
+# Add custmizable timer durations through the popup interface.
+# Improve UI/UX for the popup and timer display.
+# Implement sound alert before the tab closes.
 
 happy coading 🚀
